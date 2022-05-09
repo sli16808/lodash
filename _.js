@@ -1,3 +1,5 @@
+// simulate some core methods from lodash library
+
 const _ = {
     clamp(num, lower, upper) {
       // set num to max of num and lower to bound num by lower parameter
